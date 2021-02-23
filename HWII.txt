@@ -1,0 +1,11 @@
+How I entered my DataSCientistHWI.docx into GitHub
+#1
+git add DataScientistHWI.docx 
+
+#2
+git commit -m "placing file to GitHub"
+
+#3
+git push origin master
+
+FIN
