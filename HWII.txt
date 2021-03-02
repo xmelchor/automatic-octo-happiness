@@ -1,3 +1,7 @@
+
+#### all documentation should have the # in front of it 
+#### each step should have a documented statment about what it is doing. 
+
 How I entered my DataSCientistHWI.docx into GitHub
 #1
 git add DataScientistHWI.docx 
@@ -9,3 +13,4 @@ git commit -m "placing file to GitHub"
 git push origin master
 
 FIN
+
